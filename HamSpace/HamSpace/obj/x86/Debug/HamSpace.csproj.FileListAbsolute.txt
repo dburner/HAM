@@ -1,0 +1,9 @@
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\bin\Debug\HamSpace.exe
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\bin\Debug\HamSpace.pdb
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\HamSpace.MainForm.resources
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\HamSpace.Properties.Resources.resources
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\HamSpace.exe
+C:\Users\Ionut\Documents\GitHub\H.A.M\HamSpace\HamSpace\obj\x86\Debug\HamSpace.pdb
